@@ -1,0 +1,5 @@
+dist
+coverage
+docs
+basic.js
+BasicTest.js
